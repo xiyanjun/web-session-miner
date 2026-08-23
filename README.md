@@ -15,6 +15,7 @@ web-session-miner/
 ├── SKILL.md              # 通用五步法 + 合规边界 + 坑位清单
 ├── README.md             # 本文件
 ├── LICENSE               # MIT
+├── AUDIT.md              # 脱敏核对表（脱敏基线 + 自查清单）
 └── recipes/
     ├── _template.md      # 新站点适配模板（照填即可接入新网站）
     ├── qcc.md            # 企查查适配器（内置示例，未登录可搜索）
