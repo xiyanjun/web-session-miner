@@ -1,5 +1,7 @@
 ---
+slug: web-session-miner
 name: web-session-miner
+displayName: 网页登录态数据挖掘器
 description: >-
   网页登录态数据挖掘器（通用版）。当目标网站同时存在「官方 MCP/开放平台 API（按次/积分计费）」
   与「网页版（会员/免费展示）」两套体系时，复用用户已登录浏览器的登录态（cookies），通过
@@ -10,8 +12,12 @@ description: >-
   查股东、查实控人、股权穿透、对外投资、企业尽调、供应商背调、批量采集，且希望零 API 成本
   采集已授权数据时使用。触发词：查企业、查老板、查股东、查实控人、股权穿透、对外投资、企业尽调、
   工商信息、人物图谱、网页抓取、登录态抓取、批量采集、数据挖掘。
+description_zh: >-
+  网页登录态数据挖掘器：复用已登录浏览器会话抓取网页版数据，零 API 成本采集企业工商、人物图谱、
+  股权穿透等已授权数据。通用方法论 + 站点适配器架构，内置企查查适配器。
 version: 1.0.0
 author: hectorlee
+tags: [web-scraper, browser-automation, data-mining, 网页抓取, 登录态, 数据采集, 企业查询, 股权穿透]
 agent_created: true
 ---
 
