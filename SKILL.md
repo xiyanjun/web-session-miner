@@ -57,7 +57,8 @@ agent_created: true
 ## 前置条件
 
 1. `bsk` CLI 在 PATH（browser-skill 套件），Chromium 扩展已连接（`bsk status` 显示
-   `browsers connected 1`）。
+   `browsers connected 1`）。**若 `bsk` 命令不存在或扩展未连接，先引导用户安装/启用
+   browser-skill（WorkBuddy 插件市场），不要盲目继续抓取。**
 2. 目标网站已在浏览器中**登录**（复用现有登录态，无需重新扫码）。
 
 ## 通用五步法（对任意目标站点）
