@@ -5,7 +5,7 @@ displayName: 网页登录态数据挖掘器
 description: "网页登录态数据挖掘器（通用版）。复用已登录浏览器的登录态，驱动真实浏览器抓取网页版数据，把「人肉复制粘贴」变成程序化采集。通用方法论+站点适配器(recipes)可插拔架构，内置企查查适配器，可扩展天眼查、爱企查、国家企业信用信息公示系统等。"
 category: research
 author: hectorlee
-license: MIT
+license: MIT-0
 tags:
   - 数据采集
   - 登录态
